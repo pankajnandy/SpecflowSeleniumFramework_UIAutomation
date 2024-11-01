@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|c:\\users\\panka_2au9w4a\\source\\repos\\specflow_uiautomation_tfl\\pages\\journeyresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|solutionrelative:pages\\journeyresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|c:\\users\\panka_2au9w4a\\source\\repos\\specflow_uiautomation_tfl\\stepdefinitions\\journeyplannerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|solutionrelative:stepdefinitions\\journeyplannerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|c:\\users\\panka_2au9w4a\\source\\repos\\specflow_uiautomation_tfl\\features\\journeyplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B5FE46F-C4A3-45C5-8680-ED2B793CD739}|Specflow_UIAutomation_TFL.csproj|solutionrelative:features\\journeyplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JourneyResultsPage.cs",
+              "DocumentMoniker": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\Pages\\JourneyResultsPage.cs",
+              "RelativeDocumentMoniker": "Pages\\JourneyResultsPage.cs",
+              "ToolTip": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\Pages\\JourneyResultsPage.cs",
+              "RelativeToolTip": "Pages\\JourneyResultsPage.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAiwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:34:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JourneyPlanner.feature",
+              "DocumentMoniker": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\Features\\JourneyPlanner.feature",
+              "RelativeDocumentMoniker": "Features\\JourneyPlanner.feature",
+              "ToolTip": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\Features\\JourneyPlanner.feature",
+              "RelativeToolTip": "Features\\JourneyPlanner.feature",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-31T12:09:24.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JourneyPlannerStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\panka_2au9w4a\\source\\repos\\Specflow_UIAutomation_TFL\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:13:53.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
