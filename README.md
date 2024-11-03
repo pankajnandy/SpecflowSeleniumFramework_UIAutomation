@@ -28,8 +28,8 @@ Created Reporting Class for reporting.
 Included WebDriver Factory Implementation
 
 7. Test Scripts:
-Write Test Scripts: Create test classes with methods annotated with @Test. Use the Page Object Model to interact with page elements.
-Parameterization: Parameterize tests using test data (e.g., TestNG data providers or external data sources).
+Write Test Scripts: Create test Scripts using the Specflow feature file in Gherkin language and the step implementaion in the Step Definition files. Use the Page Object Model to interact with page elements.
+
 
 8. App.config
 Added App.config to add browser info. Can be used to manipulate for CI/CD .
