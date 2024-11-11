@@ -107,6 +107,8 @@ namespace Specflow_UIAutomation_TFL.Pages
         /// <returns></returns>
         public JourneyResultsPage ClickPlanJourneyBtn()
         {
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(planJourneyBtn));
             driver.FindElement(planJourneyBtn).Click();
             return new JourneyResultsPage(driver);
         }
